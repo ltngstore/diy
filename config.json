@@ -1,6 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
+  "Make your own merch ⚡️": "Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
