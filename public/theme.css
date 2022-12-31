@@ -150,5 +150,7 @@ nav.pagination a {
 #zip a {
   color: #3399ff;
 }
-/* Your custom styles goes here */
+.p1 {
+  font-family: "Courier", monospace;
+}
 
