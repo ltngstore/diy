@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "DIY Merch", // DIY Merch
+  "title": "DIY Merch",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards", // Your theme
+  "theme": "cards",
   "css": "./custom.css",
-  "footer": "Lightning.Store", // Set your copyright text here
+  "footer": "Lightning.Store",
   "usage-stats": false
 }
